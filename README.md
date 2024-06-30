@@ -8,6 +8,10 @@ To use the password generator, simply click the button "Generate Password." A ra
 
 Image of the application:
 
+<img width="1334" alt="Password Generator" src="https://github.com/eissamonet/Random-Password-Generator/assets/133728858/2886e48f-f583-49a5-b557-b487a12ec4d0">
+
+
+
 
 
 ## License
